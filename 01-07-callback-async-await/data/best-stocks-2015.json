@@ -1,0 +1,25 @@
+{
+    "year": 2015,
+    "stocks": [
+        {
+            "company": "Netflix",
+            "return": 134.4
+        },
+        {
+            "company": "Amazon.com",
+            "return": 117.8
+        },
+        {
+            "company": "Ctrip.com International",
+            "return": 103.6
+        },
+        {
+            "company": "Activision Blizzard",
+            "return": 94.1
+        },
+        {
+            "company": "NVIDIA",
+            "return": 67.1
+        }
+    ]
+}
