@@ -1,0 +1,22 @@
+{
+  "name": "code_samples",
+  "version": "1.0.0",
+  "description": "Bu notlar [FMSS React Practicum Mart 2023](https://www.patika.dev/bootcamp/fmss-bilisim-front-end-practicum) öğrencileri için kursu destekleyici amaçla hazırlanmıştır. Patika'nın [Orta Seviye Frontend Web Development Patikası](https://app.patika.dev/paths/orta-seviye-frontend-web-development-patikasi) altındaki [React dersi](https://app.patika.dev/courses/react) takip edilmiştir.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trkaplan/patika-react-ders-notlari-2023-fmss-code-samples.git"
+  },
+  "workspaces": [
+    "0*/*"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trkaplan/patika-react-ders-notlari-2023-fmss-code-samples/issues"
+  },
+  "homepage": "https://github.com/trkaplan/patika-react-ders-notlari-2023-fmss-code-samples#readme"
+}
