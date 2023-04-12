@@ -1,0 +1,2 @@
+- Bu commitle, nextjs'de route kullanım örneği eklendi. http://localhost:3000/post/1'e giderek örneği görebilirsiniz.
+-
